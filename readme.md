@@ -1,18 +1,20 @@
 # This repository created for Spec. Top. in Rem. Sens. lecture and educational purposes.
 </br>
 
+
+
 # Goal
-## This project aims to detect how to effect forest areas during the 2020 California Dolan Fire. To detect wildfire areas NBR (Normalized Burn Ratio) index has choosen and applied two time scale of ROI. 
+## This project aims to detect how to effect forest areas during the 2020 Austrilia Wildfire. To detect wildfire areas NBR (Normalized Burn Ratio) index has choosen and applied two time scale of ROI. 
 </br>
 
 # Dataset
 
-### To apply NBR index pre and post data are required. In this case detection of start date of dolan wildfire is essential. Dolan fire started 18 August 2020.
+### To apply NBR index pre and post data are required. In this case detection of start date of dolan wildfire is essential. Austrilia fire started January 2020.
 
 
 ## Choosen data
-### Pre  --> 12 Augut 2020
-### Post --> 11 October 2020
+### Pre  -->  24 December 2019
+### Post -->  12 April 2020
 </br>
 
 ## Choosen dataset
