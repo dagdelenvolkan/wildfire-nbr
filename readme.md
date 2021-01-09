@@ -1,7 +1,7 @@
 # This repository created for Spec. Top. in Rem. Sens. lecture and educational purposes.
 </br>
 
-
+![ITU](images/itu.jpg 'ITU')
 
 # Goal
 ### This project aims to detect how to effect forest areas during the 2020 Austrilia Wildfire. To detect wildfire areas NBR (Normalized Burn Ratio) index has choosen and applied two time scale of ROI. 
@@ -50,7 +50,6 @@ dnbr = NBRpre - NBRpost
 
 ## Burn Serverity Ares with Hectares
 <br>
-<center>
 
 | Severity Level | Area |
 | :----: | :-:|
@@ -60,5 +59,4 @@ dnbr = NBRpre - NBRpost
 | Low Severity | 8464.63 Hectares |
 | Unburned | 11596.4 Hectares |
 
-</center>
 
