@@ -47,3 +47,18 @@ dnbr = NBRpre - NBRpost
 
 ## NBR Result with Legend
 ![Map](images/burn_result.png 'Result')
+
+## Burn Serverity Ares with Hectares
+<br>
+<center>
+
+| Severity Level | Area |
+| :----: | :-:|
+| High Severity | 3547.9 Hectares |
+| Moderate-high Severity | 8583.7 Hectares |
+| Moderate-low Severity | 12807.4 Hectares |
+| Low Severity | 8464.63 Hectares |
+| Unburned | 11596.4 Hectares |
+
+</center>
+
