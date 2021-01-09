@@ -4,7 +4,7 @@
 
 
 # Goal
-## This project aims to detect how to effect forest areas during the 2020 Austrilia Wildfire. To detect wildfire areas NBR (Normalized Burn Ratio) index has choosen and applied two time scale of ROI. 
+### This project aims to detect how to effect forest areas during the 2020 Austrilia Wildfire. To detect wildfire areas NBR (Normalized Burn Ratio) index has choosen and applied two time scale of ROI. 
 </br>
 
 # Dataset
@@ -33,4 +33,17 @@
 ```
 dnbr = NBRpre - NBRpost
 ```
+## NBR Images
+![NBR](images/NBR.png 'NBR')
 
+
+## Pre (24 December 2019) and Post (12 April 2020) NBR Histogram
+
+![Histogram](images/hist.png 'Histogram')
+
+## Burn Severity
+![Severity](images/burn_severity.png 'Severity')
+
+
+## NBR Result with Legend
+![Map](images/burn_result.png 'Result')
