@@ -41,6 +41,22 @@ dnbr = NBRpre - NBRpost
 
 ![Histogram](images/hist.png 'Histogram')
 
+## Severity Classes
+
+| Severity Class | Range |
+| :------------: | :---:|
+|Unburned | < -0.1|
+|Low Severity| < 0.27|
+|Moderate-low Severity| < 0.44|
+|Moderate-High Severity| < 0.66|
+|High Severity| >= 0.66|
+
+```
+Severity Classes obtained from;
+http://gsp.humboldt.edu/OLM/Courses/GSP_216_Online/lesson5-1/NBR.html
+```
+<br>
+
 ## Burn Severity
 ![Severity](images/burn_severity.png 'Severity')
 
