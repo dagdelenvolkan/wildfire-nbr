@@ -17,6 +17,11 @@
 ### Post -->  12 April 2020
 </br>
 
+## Chosen Area
+### Austrilia's Buddong and Tumbarumba Area
+
+<br>
+
 ## Choosen dataset
 ### Sentinel-2A is choosen to implemented NBR index.
 ### All of these data are obtained from copernicus scihub to use educational purposes.
@@ -33,6 +38,13 @@
 ```
 dnbr = NBRpre - NBRpost
 ```
+
+<br>
+
+## Work Flow
+![WorkFlow](images/workflow.png 'WorkFlow')
+
+
 ## NBR Images
 ![NBR](images/NBR.png 'NBR')
 
