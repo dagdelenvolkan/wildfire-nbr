@@ -41,7 +41,7 @@ dnbr = NBRpre - NBRpost
 
 ![Histogram](images/hist.png 'Histogram')
 
-## Severity Classes
+## Burn Severity Classes
 
 | Severity Class | Range |
 | :------------: | :---:|
