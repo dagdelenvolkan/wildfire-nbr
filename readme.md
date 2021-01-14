@@ -11,6 +11,12 @@
 
 ### To apply NBR index pre and post data are required. In this case detection of start date of dolan wildfire is essential. Austrilia fire started January 2020.
 
+<br>
+
+# Libraries
+```
+Libraries which are used in this project can be found in requirements.txt file.
+```
 
 ## Choosen data
 ### Pre  -->  24 December 2019
