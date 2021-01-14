@@ -76,7 +76,7 @@ http://gsp.humboldt.edu/OLM/Courses/GSP_216_Online/lesson5-1/NBR.html
 ## NBR Result with Legend
 ![Map](images/burn_result.png 'Result')
 
-## Burn Serverity Ares with Hectares
+## Burn Serverity Areas with Hectares
 <br>
 
 | Severity Level | Area |
