@@ -14,8 +14,14 @@
 <br>
 
 # Libraries
+
+-rasterio
+-matplotlib
+-numpy
+-seaborn
+
 ```
-Libraries which are used in this project can be found in requirements.txt file.
+Libraries which are used in this project can be found in requirements.txt file with version numbers.
 ```
 
 ## Choosen data
@@ -38,12 +44,16 @@ Libraries which are used in this project can be found in requirements.txt file.
 ```
  NBR = (NIR - SWIR) / (NIR + SWIR)
 ```
+
+NBR index is usefull to detect Burning Ratio. NBR index is calculated to prefire and postfire images to decide change with dnbr.
 </br>
 
 ## dnbr is used to detect changes.
 ```
 dnbr = NBRpre - NBRpost
 ```
+dnbr is used to understand how to change areas due to wildfire. Dnbr is a simply arithmetic subraction band operation to detect change.
+
 
 <br>
 
@@ -76,6 +86,7 @@ http://gsp.humboldt.edu/OLM/Courses/GSP_216_Online/lesson5-1/NBR.html
 <br>
 
 ## Burn Severity
+Image below shows the burn severity areas as a white pixel to understand which areas are how effected.
 ![Severity](images/burn_severity.png 'Severity')
 
 
@@ -93,4 +104,6 @@ http://gsp.humboldt.edu/OLM/Courses/GSP_216_Online/lesson5-1/NBR.html
 | Low Severity | 8464.63 Hectares |
 | Unburned | 11596.4 Hectares |
 
+## Result
 
+2020 was a bad year for Austrilia's people due to wildfire. In this project, burn severity detection is aimed with remote sensing methods and images. The result is shown above with images and tables to understand intuitively and logically. According to area of interest moderate-low level effect is more than others.
