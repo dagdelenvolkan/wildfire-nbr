@@ -15,10 +15,10 @@
 
 # Libraries
 
--rasterio
--matplotlib
--numpy
--seaborn
+- rasterio
+- matplotlib
+- numpy
+- seaborn
 
 ```
 Libraries which are used in this project can be found in requirements.txt file with version numbers.
