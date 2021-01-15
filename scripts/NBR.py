@@ -1,16 +1,6 @@
 import rasterio
 import numpy as np
-from rasterio.enums import Resampling
-import geopandas as gpd
-import json
-from rasterio.mask import mask
-from shapely.geometry import box
-from rasterio.plot import show
-import matplotlib.pyplot as plt
-from rasterio.plot import show_hist
-import matplotlib
-import seaborn as sns
-import geopandas as gpd
+
 
 
 def NBR_Calc(NIR, SWIR, output):
